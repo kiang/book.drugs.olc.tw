@@ -1,6 +1,6 @@
 # 成份檢視介面說明
 
-![成份檢視介面](ingredient_view_page.png)
+![成份檢視介面](img/ingredient_view_page.png)
 
 #### 不良反應資訊
 
