@@ -5,6 +5,7 @@
 * [一般操作](yi_ban_cao_zuo.md)
    * [一般搜尋與藥物搜尋](yi_ban_sou_xun_yu_yao_wu_sou_xun.md)
    * [藥物檢視介面說明](yao_wu_jian_shi_jie_mian_shuo_ming.md)
+   * 成份檢視介面說明
 * [軟體開發介面](ruan_ti_kai_fa_jie_mian.md)
    * [API 介面一覽](api_jie_mian_yi_lan.md)
    * [Drug Model](drug_model.md)
