@@ -1,6 +1,6 @@
 # 一般搜尋與藥物搜尋
 
-![一般搜尋與藥物搜尋](screenshot-drugs olc tw 2015-03-18 20-40-25.png)
+![一般搜尋與藥物搜尋](img/screenshot-drugs olc tw 2015-03-18 20-40-25.png)
 
 在[藥要看](http://drugs.olc.tw/)網站每個頁面都可以看到左上角的搜尋功能，可以透過這兩個功能搜尋藥物資訊。
 
