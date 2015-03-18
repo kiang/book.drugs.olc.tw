@@ -17,3 +17,7 @@
 同時整併來自下面網站的資料：
 * [健保局特約藥局](http://www.nhi.gov.tw/Query/query3_list.aspx)
 * [中醫藥司中藥許可證資料](http://www.mohw.gov.tw/CHT/DOCMAP/query_liense.aspx?mode=1)
+
+以及透過美國 [openFDA](https://open.fda.gov/) 網站的 API ，在檢視西藥成份時嘗試取得該網站所蒐集的藥物不良反應通報統計。
+
+[藥要看](http://drugs.olc.tw/) 網站期望透過開放、友善的方式降低藥物資訊檢索的難度，未來除了既有資料的交叉應用外，也希望發展出符合使用者期待的加值應用。
