@@ -7,5 +7,5 @@
    * [藥物檢視介面說明](yao_wu_jian_shi_jie_mian_shuo_ming.md)
    * [成份檢視介面說明](cheng_fen_jian_shi_jie_mian_shuo_ming.md)
 * [藥物資訊編輯](yao_wu_zi_xun_bian_ji.md)
-   * 取得權限方式
+   * [取得權限方式](qu_de_quan_xian_fang_shi.md)
 
