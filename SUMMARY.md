@@ -8,5 +8,5 @@
    * [成份檢視介面說明](cheng_fen_jian_shi_jie_mian_shuo_ming.md)
 * [藥物資訊編輯](yao_wu_zi_xun_bian_ji.md)
    * [取得權限方式](qu_de_quan_xian_fang_shi.md)
-   * 個人/機構資訊編輯
+   * [個人/機構資訊編輯](ge_4eba_ji_gou_zi_xun_bian_ji.md)
 
