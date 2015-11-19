@@ -10,5 +10,5 @@
    * [取得權限方式](qu_de_quan_xian_fang_shi.md)
    * [個人/機構資訊編輯](ge_4eba_ji_gou_zi_xun_bian_ji.md)
    * [藥物資訊編輯功能](yao_wu_zi_xun_bian_ji_gong_neng.md)
-* FAQ 答客問
+* [FAQ 答客問](faq_da_ke_wen.md)
 
